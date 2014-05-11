@@ -1,5 +1,6 @@
 jquery.fireflies
 ================
 
-** DEMO
+DEMO
+--------------
 http://www.pitipat-dop.com/demo/isiss/
